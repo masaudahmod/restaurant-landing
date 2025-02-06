@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Landing Page  
 
-![Restaurant Landing Page](feature-image.jpg)  
+![Restaurant Landing Page]([feature-image.jpg](https://raw.githubusercontent.com/masaudahmod/restaurant-landing/refs/heads/main/bootstrap-restaurant-template.jpg?token=GHSAT0AAAAAACX3W6N4UKDMWOYF3UD6X3REZ5FCLCQ))  
 
 🚀 A modern and stylish **restaurant landing page** built with **HTML, CSS, Vanilla JavaScript, and SCSS**. This project provides a visually appealing UI with smooth animations and responsive design.
 
@@ -13,7 +13,7 @@
 ✅ **Contact Form** – Allow customers to reach out easily.  
 
 ## 📷 Preview  
-> https://raw.githubusercontent.com/masaudahmod/restaurant-landing/refs/heads/main/bootstrap-restaurant-template.jpg?token=GHSAT0AAAAAACX3W6N4UKDMWOYF3UD6X3REZ5FCLCQ  
+>![]([feature-image.jpg](https://raw.githubusercontent.com/masaudahmod/restaurant-landing/refs/heads/main/bootstrap-restaurant-template.jpg?token=GHSAT0AAAAAACX3W6N4UKDMWOYF3UD6X3REZ5FCLCQ)) 
 
 ## 🛠️ Tech Stack  
 - **HTML** – Structuring the content.  
