@@ -53,14 +53,3 @@ Feel free to fork this repo and submit pull requests!
 This project is MIT Licensed.
 
 🔥 Let's build an amazing restaurant website! 🎉
-
-markdown
-Copy
-Edit
-
-### How to use it:  
-1. Save this as **`README.md`** in your project root directory.  
-2. Replace **`feature-image.jpg`** with your actual feature image file or link.  
-3. Update **your GitHub username** in the clone command.  
-
-Would you like any additional sections, like deployment steps? 🚀
